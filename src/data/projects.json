@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Github - Explorer",
+    "imageSrc": "projects/githubExplorer.png",
+    "description": "A web app to explore GitHub repositories, search by keywords, and view detailed information, all in one intuitive interface.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ritiksingh070.github.io/github_explorer/",
+    "source": "https://github.com/ritiksingh070/github_explorer"
+  },
+  {
+    "title": "Unit Converter",
+    "imageSrc": "projects/unitConvertor.png",
+    "description": "A unit converter app that allows users to convert between different units of measurement, such as length, weight, volume, and temperature.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ritiksingh070.github.io/unit-converter/",
+    "source": "https://github.com/ritiksingh070/unit-converter"
+  },
+  {
+    "title": "Tic-Tac-Toe Game",
+    "imageSrc": "projects/ticTacToe.png",
+    "description": "Aclassic Tic Tac Toe game where players take turns placing their X or O marks on a 3x3 grid until one player wins or the game ends in a draw.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://ritiksingh070.github.io/Tic-Tac-Toe-Game/",
+    "source": "https://github.com/ritiksingh070/Tic-Tac-Toe-Game"
+  }
+]
